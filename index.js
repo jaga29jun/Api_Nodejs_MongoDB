@@ -1,7 +1,6 @@
 var express = require('express');
 var app = express();
 const bodyParser = require('body-parser');
-var moment = require('moment');
 var moment = require('moment-timezone');
 
 
